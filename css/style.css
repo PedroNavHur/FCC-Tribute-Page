@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Fauna+One|Playfair+Display:700');
+
+body {
+  font-family: "Fauna One", serif;
+  font-size: calc(100% + 1vw);
+  background-image:url(https://images2.alphacoders.com/261/26102.jpg);
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size:cover;
+  min-height:100%;
+}
+
+.headerA {
+  background-color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.sectionA {
+  background-color: #fff;
+  margin-bottom: 2vw;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.sectionB {
+  border-radius: 3vw;
+  background-color: #fff;
+  margin: 2vw;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.sectionC {
+  border-radius: 25px;
+  background-color: #fff;
+  margin: 2vw;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footerA {
+  background-color: #212121;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  font-size: calc(150% + 1vw);
+}
+h3 {
+  text-align: center;
+  font-size: calc(100% + 1vw);
+}
+h4 {
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  font-size: calc(150% + 1vw);
+  
+}
+h5 {
+  color: #fff;
+  text-align: center;
+}
+
